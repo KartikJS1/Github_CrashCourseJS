@@ -12,3 +12,4 @@ myName();
 console.log("HiiJS");
 
 
+console.log("HelloJS");
