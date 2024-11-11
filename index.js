@@ -9,4 +9,6 @@ function myName() {
 }
 myName();
 
+console.log("HiiJS");
+
 
