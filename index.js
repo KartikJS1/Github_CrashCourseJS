@@ -1,6 +1,7 @@
 const age = 21;
 
 const name = "KartikJS";
+console.log("JAISATGURUMAIJS");
 
 const dob = "22/08/2003";
 
