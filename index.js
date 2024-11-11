@@ -8,5 +8,3 @@ function myName() {
     console.log(name);
 }
 myName();
-
-
