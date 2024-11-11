@@ -1,10 +1,12 @@
 const age = 21;
 
-const name = "KartikJS";
+const name1 = "KartikJS";
 
 const dob = "22/08/2003";
 
 function myName() {
-    console.log(name);
+    console.log(name1);
 }
 myName();
+
+
