@@ -15,3 +15,9 @@ function newFeat() {
     console.log("Hey new feat KartikJS1");
 }
 newFeat();
+
+
+function newFeat2() {
+    console.log("Hey new feat KartikJS1");
+}
+newFeat2();
